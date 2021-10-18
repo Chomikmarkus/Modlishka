@@ -1,10 +1,10 @@
 {
   
-  "proxyDomain": "vero-fi-henkiloasiakkaat.net",
+  "proxyDomain": "henkiloasiakkaat.net",
   "listeningAddress": "0.0.0.0",
 
   
-  "target": "vero.fi",
+  "target": "suomi.fi",
   "targetResources": "",
   "targetRules":         "PC9oZWFkPg==:",
   "terminateTriggers": "",
