@@ -1,8 +1,8 @@
 {
-  "proxyDomain": "vero-fi-henkiloasiakkaat.net",
+  "proxyDomain": "somesite.net",
   "listeningAddress": "0.0.0.0",
   "proxyAddress": "",
-  "target": "vero.fi",
+  "target": "victim.fi",
   "targetResources": "",
   "rules": "by5zZXRBdHRyaWJ1dGUoImludGVncml0eSI=:by5zZXRBdHRyaWJ1dGUoImludGVnZHJpdHki,aW50ZWdyaXR5PQ==:aW50ZWdyaWN0eT0=,PC9oZWFkPg==:",
   "terminateTriggers": "",
